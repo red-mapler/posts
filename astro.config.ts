@@ -30,11 +30,8 @@ export default defineConfig({
   image: {
     // Used for all Markdown images; not configurable per-image
     // Used for all `<Image />` and `<Picture />` components unless overridden with a prop
-    experimentalLayout: "responsive",
+    // experimentalLayout: "responsive", // Astro 现在的图片布局和响应式功能已内置，无需再配置 experimentalLayout。
+
   },
-  experimental: {
-    svg: true,
-    responsiveImages: true,
-    preserveScriptOrder: true,
-  },
+  // experimental 配置块已删除
 });
