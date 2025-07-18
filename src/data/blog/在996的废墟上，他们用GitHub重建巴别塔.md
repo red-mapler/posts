@@ -9,7 +9,7 @@ tags:
   - 开源
   - GitHub
   - 推荐
-canonicalURL: /assets/images/balel.png
+canonicalURL: assets/images/balel.png
 description: 当维基百科的词条在指尖流转，当Linux系统支撑起全球服务器，当无数开发者用GitHub搭建起数字世界的基石——这些看似免费的馈赠背后，是一场延续半个世纪的人类精神实验。开源，早已超越技术范畴，成为一种对抗知识垄断的数字文明宣言。
 ---
 
